@@ -1,6 +1,6 @@
 ### Who am I? 
 
 - ☕ Java Developer
-- 🌐 Front-end Developer
+- 🌐 Front-end Designer
 - 🐘 Basic PHP Developer
-- 📚 Currently learning Kotlin and C++
+- 📚 Currently learning C++
