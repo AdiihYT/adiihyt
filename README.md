@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MineZone](https://www.minezone.hu/)
 
-- 🌱 I’m currently learning **NodeJS, ElectronJS and C++**
+- 🌱 I’m currently learning **C++**
 
 - 📫 Reach me at **adiihsub@gmail.com**
 
