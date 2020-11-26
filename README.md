@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adiih</h1>
-<h3 align="center">A passionate Java developer from Hungary.</h3>
+<h3 align="center">A passionate Java developer and high school student.</h3>
 
 - 🔭 I’m currently working on [MineZone](https://www.minezone.hu/)
 
