@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MineZone](https://www.minezone.hu/)
 
-- 🌱 I’m currently learning **React & NodeJS**
+- 🌱 I’m currently learning **TypeScript with React and ts-node**
 
 - 📫 Reach me at **adiihsub@gmail.com**
 
