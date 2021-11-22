@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adiih</h1>
 <h3 align="center">A passionate Java and web developer</h3>
 
-- 🔭 I’m currently working on [MineZone](https://www.minezone.hu/)
-
 - 🌱 I’m currently learning **TypeScript with React and ts-node**
 
 - 📫 Reach me at **adiihsub@gmail.com**
