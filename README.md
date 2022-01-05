@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adiih</h1>
 <h3 align="center">A passionate Java and web developer</h3>
 
-- 🌱 I’m currently learning **TypeScript with React and ts-node**
+- 🌱 I’m currently learning **React with TypeScript, Next.js and Remix**
 
 - 📫 Reach me at **adiihsub@gmail.com**
 
 - ⚡ Interested in **Java and web development**
+
+- ❤️ Obsessed with **TypeScript projects** lately.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
