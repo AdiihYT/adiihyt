@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adiih</h1>
 <h3 align="center">A passionate Java and web developer</h3>
 
-- 🌱 I’m currently learning **React with TypeScript, Next.js and Remix**
+- 🌱 I’m currently learning **Vite React and Remix**
 
 - 📫 Reach me at **adiihsub@gmail.com**
 
