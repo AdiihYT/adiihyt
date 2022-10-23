@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adiih</h1>
 <h3 align="center">A passionate Java and web developer</h3>
 
-- 🌱 I’m currently learning **Vite React and Remix**
+- 🌱 I’m currently learning **Remix and tRPC**
 
 - 📫 Reach me at **adiihsub@gmail.com**
 
@@ -14,4 +14,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adiihyt&show_icons=true&locale=en&layout=compact" alt="adiihyt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adiihyt&" alt="adiihyt" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
