@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adiih</h1>
 <h3 align="center">A passionate Java and web developer</h3>
 
-- 🌱 I’m currently learning **Remix and tRPC**
+- 📫 Reach me at **adiihsub@gmail.com** or on Discord: @adiih
 
-- 📫 Reach me at **adiihsub@gmail.com**
-
-- ⚡ Interested in **Java and web development**
+- ⚡ Interested in **Java and full-stack web development**
 
 - ❤️ Obsessed with **TypeScript projects** lately.
 
