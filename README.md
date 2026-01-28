@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adiih</h1>
 <h3 align="center">A passionate world traveller and full-stack developer</h3>
 
-- 📫 Reach me at **adiihsub@gmail.com** or on Discord: @adiih
+- 📫 Reach me at **aszalos.adam@happylab.hu**
 
 - ⚡ Mainly interested in **Full-stack web development**
 
