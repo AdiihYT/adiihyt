@@ -1,17 +1,66 @@
-<h1 align="center">Hi 👋, I'm Adiih</h1>
-<h3 align="center">A passionate world traveller and full-stack developer</h3>
+# Hey, I'm Adam 👋
 
-- 📫 Reach me at **aszalos.adam@happylab.hu**
+Front-end developer from **Budapest, Hungary** 🇭🇺, co-founder of [**HappyLab**](https://www.happylab.hu/).
 
-- ⚡ Mainly interested in **Full-stack web development**
+I build things people actually use every day. Sometimes that's a landing page that has to convert on the first scroll, sometimes it's an ERP system that 30 people lean on from morning to closing. I like both for very different reasons.
 
-- ❤️ Obsessed with **SaaS projects** lately.
-
-## 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdiihYT&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdiihYT&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiihYT&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
+## 🧪 What I'm up to
+
+Since 2024 I've been working with the team I co-founded at [HappyLab](https://www.happylab.hu/), where we design and ship digital products for real clients with real deadlines. My side of the table is mostly front-end: interfaces, interactions, and the unglamorous work of making everything behave on a five year old Android phone.
+
+Range wise, it goes from a one page site for a local business all the way up to internal systems running a whole company. Turns out the hard part is rarely the code, it's understanding what the client actually needs.
+
+---
+
+## 🚀 Things I've helped build
+
+**🎟️ [PGT Show](https://pgtshow.hu/)** ・ Ticketing platform for nationwide events
+Over 30,000 purchases processed across 50+ events in 20+ cities, with secure payments and automated invoicing running quietly in the background.
+
+**📦 LOLsys (LOLmarkt)** ・ Full ERP system
+Live since 2025 and already past 42,000 real orders, used simultaneously by 30+ employees across 10 locations plus a central facility. It cut manual work roughly in half. No public demo, it's a closed system.
+
+**🎨 LOLmarkt Partner Platform** ・ Partner and commission management
+Real time sales and commission tracking for graphic designers, built around a custom design placement module: upload artwork, position it on the product, and it syncs straight to the webshop.
+
+**⛏️ [FyreMC](https://fyremc.hu/)** ・ Hungary's largest Minecraft server network
+Website and account system for a community of nearly 400,000 registered players.
+
+**🃏 [TCGVerse](https://www.tcgverse.hu/)** ・ Trading card game webshop
+Built from zero, from the first sketch to launch day. Pokémon, One Piece and friends.
+
+**🌐 And a bunch more:** [TAUR Group](https://taur.hu/) (cleaning services), [New Dimension](https://newdim.hu/) (marketing agency), [DebHome](https://www.debhome.hu/) (real estate), [Claudia's Angels](https://claudiasangels.hu/) (dance and aerial arts), plus creator webshops like [PGT Shop](https://shop.pgtdani.hu/) and [Videosod](https://videosod.hu/).
+
+The full list lives at [happylab.hu/referenciak](https://www.happylab.hu/referenciak) 📚
+
+---
+
+## 🛠️ My toolbox
+
+**Next.js** ・ **TypeScript** ・ **React** ・ **Tailwind CSS** ・ **shadcn/ui**
+
+Most of my repos here are private client work, so this profile is quieter than my actual week. 🤫
+
+---
+
+## 🌱 Outside the editor
+
+🎓 Studying **Commerce and International Business** at Metropolitan University of Budapest (METU). Business school and front-end work overlap more than you'd think, both are mostly about figuring out what people want.
+
+🎾 **Tennis**, whenever I can get on a court.
+
+💨 Mildly (severely) obsessed with **hookahs**. Bowl packing is a craft and I will defend that opinion.
+
+✈️ **Travelling** is my real passion. **25 countries** so far across Europe, North America and Asia, and the list isn't finished:
+
+🇰🇷 🇦🇪 🇦🇹 🇧🇬 🇭🇷 🇪🇪 🇫🇷 🇩🇪 🇭🇺 🇮🇪 🇮🇹 🇱🇮 🇱🇺 🇳🇱 🇵🇹 🇷🇴 🇸🇰 🇸🇮 🇪🇸 🇨🇭 🇺🇦 🇬🇧 🇻🇦 🇧🇸 🇺🇸
+
+---
+
+## 📬 Let's build something
+
+We take on commissions through HappyLab, so if you've got a project in mind, whether that's a landing page, a webshop or a system that runs your whole operation, come say hi.
+
+🔗 [happylab.hu](https://www.happylab.hu/) ・ 💼 [Get a quote](https://www.happylab.hu/start) ・ 👔 [LinkedIn](https://www.linkedin.com/company/happylab-hu/)
